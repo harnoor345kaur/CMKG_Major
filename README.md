@@ -23,10 +23,10 @@ events.
 6. Causal Reasoning Engine: Performs inference over causal paths.
 7. LLM Explanation Layer: Generates interpretable reasoning explanations.
 
-Component                             Purpose
-Multimodal Encoders                   Extract entities and events from different modalities
-Causal Relation Extractor             Identify causal links between events
-CMKG Builder                          Construct causal knowledge graph
-Graph Neural Network                  Learn graph representations
-Reasoning Engine                      Perform causal inference
-LLM Layer                             Provide explanations and reasoning output
+Component: Purpose
+Multimodal Encoders: Extract entities and events from different modalities
+Causal Relation Extractor: Identify causal links between events
+CMKG Builder: Construct causal knowledge graph
+Graph Neural Network: Learn graph representations
+Reasoning Engine: Perform causal inference
+LLM Layer: Provide explanations and reasoning output
